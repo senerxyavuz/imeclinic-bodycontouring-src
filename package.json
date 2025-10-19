@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ime-body",
   "version": "0.1.0",
   "private": true,
@@ -19,5 +20,24 @@
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+=======
+  "name": "landingpage-nextjs-proje",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "next": "^15.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+>>>>>>> a7f095451fd7820d21038eb9b9b2e3930e7bd9ac
   }
 }
